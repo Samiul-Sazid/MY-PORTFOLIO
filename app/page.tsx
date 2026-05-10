@@ -229,7 +229,7 @@ const HeroSection = () => {
               transition={{ type: 'spring', stiffness: 300 }}
             >
               <img
-                src="https://i.pinimg.com/736x/d6/8a/12/d68a121e960094f99ad8acd37505fb7d.jpg"
+                src="https://photos.app.goo.gl/nGRK16N9x6JHiv5r9"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
