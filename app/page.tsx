@@ -538,7 +538,7 @@ const Footer = () => {
           <DockIcon href="#home">
             <Home className="h-full w-full p-2 text-gray-700 dark:text-gray-300" />
           </DockIcon>
-          <DockIcon href="samiulsazid1234@gmail.com">
+          <DockIcon href="mailto:samiulsazids@gmail.com">
             <Mail className="h-full w-full p-2 text-gray-700 dark:text-gray-300" />
           </DockIcon>
           <DockIcon href="https://github.com/Samiul-Sazid">
